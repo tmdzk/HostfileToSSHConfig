@@ -47,10 +47,10 @@ ssh mysql1
  :beer:
 
 ### Improvements that needs to be done :
-[X] Write a basic script
-[X] Implement the ENV Variable
-[ ] More checking especially if variables are set, and make some of them optionnal (like ENV)
-[ ] Add the option to append to current config or overwrite it
-[ ] Add some fancy checking and colors
-[ ] Add an --help option
-[ ] Grab some more info from hostfile (Port, other user different SSH KEY )
+- [X] Write a basic script
+- [X] Implement the ENV Variable
+- [ ] More checking especially if variables are set (make some of them optionnal like ENV)
+- [ ] Add the option to append to current config or overwrite it
+- [ ] Add some fancy checking and colors
+- [ ] Add an --help option
+- [ ] Grab some more info from hostfile (Port, other user different SSH KEY )
