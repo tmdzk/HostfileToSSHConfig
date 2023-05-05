@@ -1,6 +1,5 @@
 #!bin/bash
 
-# It still needs some improvements : test 
 # - Check all variables
 # - Add an option append and not delete the entire config
 # - Add some checking
